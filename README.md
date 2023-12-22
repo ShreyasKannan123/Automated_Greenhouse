@@ -11,7 +11,7 @@
 7. **Future Scope**
 8. **Conclusion**
 9. **References**
-10. **Appendix**
+10. **Acknowledgments**
 
 ## Introduction
 
