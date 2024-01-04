@@ -63,5 +63,6 @@ The Automated Greenhouse signifies a significant advancement in agriculture by c
 
 This project was co created by 
 
-Nandana N
+Nandana N -> https://github.com/nandana0321
+
 Aishwarya Menon
